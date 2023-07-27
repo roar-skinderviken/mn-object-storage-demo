@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: no.javatec
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: maven
+features: [app-name, http-client-test, kapt, kotest, kotlin, kotlin-application, logback, maven, maven-enforcer-plugin, micronaut-aot, mockk, netty-server, object-storage-local, properties, readme, serialization-jackson, shade]

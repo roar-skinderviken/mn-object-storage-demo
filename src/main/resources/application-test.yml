@@ -1,0 +1,5 @@
+micronaut:
+  object-storage:
+    local:
+      my-storage:
+        enabled: true
