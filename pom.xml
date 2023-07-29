@@ -10,13 +10,12 @@
     <parent>
         <groupId>io.micronaut.platform</groupId>
         <artifactId>micronaut-parent</artifactId>
-        <version>4.0.1</version>
+        <version>4.0.2</version>
     </parent>
     <properties>
         <packaging>jar</packaging>
         <jdk.version>17</jdk.version>
         <release.version>17</release.version>
-        <micronaut.version>4.0.1</micronaut.version>
         <micronaut.runtime>netty</micronaut.runtime>
         <exec.mainClass>no.javatec.ApplicationKt</exec.mainClass>
         <kotlinVersion>1.9.0</kotlinVersion>
