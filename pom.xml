@@ -64,7 +64,7 @@
         <dependency>
             <groupId>io.micronaut.objectstorage</groupId>
             <artifactId>micronaut-object-storage-local</artifactId>
-            <version>2.0.1</version>
+            <version>2.0.3</version>
         </dependency>
 
         <dependency>
