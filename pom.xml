@@ -18,7 +18,7 @@
         <release.version>17</release.version>
         <micronaut.runtime>netty</micronaut.runtime>
         <exec.mainClass>no.javatec.ApplicationKt</exec.mainClass>
-        <kotlinVersion>2.0.0</kotlinVersion>
+        <kotlinVersion>2.0.20</kotlinVersion>
     </properties>
 
     <repositories>
